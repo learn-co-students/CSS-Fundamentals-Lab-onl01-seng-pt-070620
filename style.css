@@ -3,3 +3,42 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+section#featured-property {
+  text-align: center;
+}
+
+header a {
+  background-color: rgb(160, 158, 158);
+}
+
+header nav {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+section figcaption {
+  text-align: center;
+  font-size: 9pt;
+}
+
+section#featured-property p {
+  width: 800px;
+  text-align: center;
+  display: inline-block;
+}
+
+section#details div {
+  display: block;
+  float: left;
+}
+
+section#details div {
+  background-color: rgb(255, 0, 0);
+  text-align: center;
+  width: 25%;
+}
