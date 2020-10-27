@@ -8,24 +8,28 @@ header {
   text-align: center;
 }
 
-img {
-  display: block;
-  text-align: auto;
-}
-
-a {
+nav > a {
   padding-left: 10px;
   padding-right: 10px;
-  color: grey;
+  background-color:lightgrey;
 }
+
+
+figure {
+  text-align: center;
+}
+
 
 figcaption {
   font-size: small;
   text-align: center;
 }
 
-#featured-property {
+p#featured-property {
   width: 800px;
+}
+
+p {
   text-align: center;
 }
 
@@ -36,15 +40,6 @@ footer {
 #details > div {
   float: left;
   text-align: center;
+  background-color: red;
+  width: 25%;
 }
-
-
-
-
-
-
-
-
-
-
-
