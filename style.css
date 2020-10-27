@@ -9,8 +9,8 @@ header {
 }
 
 img {
-  text-align: center;
-
+  display: block;
+  text-align: auto;
 }
 
 a {
@@ -34,10 +34,8 @@ footer {
 }
 
 #details > div {
-
   float: left;
   text-align: center;
-  overflow: hidden;
 }
 
 
